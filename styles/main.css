@@ -24,7 +24,7 @@
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
   margin-right: 20px;
-  background: rgba(26, 68, 30, 0.4);
+  background: rgba(44, 44, 44, 0.2);
 }
 
 .bootstrap-switch .bootstrap-switch-container {
